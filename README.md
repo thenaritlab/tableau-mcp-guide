@@ -5,7 +5,6 @@
 
 [![Tableau MCP](https://img.shields.io/badge/Tableau-MCP-blue)](https://github.com/tableau/tableau-mcp)
 [![Language: Thai](https://img.shields.io/badge/Language-ไทย-red)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)]()
 
 ---
 
@@ -108,8 +107,8 @@
 **Narit Apisamachan** — Solutions Consultant ด้าน Tableau และ Data Analytics ประสบการณ์ 10+ ปี ทำงานกับลูกค้าองค์กรชั้นนำในประเทศไทย
 
 - 🌐 Facebook Page: อะไรก็ AI
-- 📺 YouTube: Tableau MCP Academy
+- 📺 YouTube:
 
-## 📄 License
+## 📄
 
-MIT License — นำไปใช้ ศึกษา แชร์ต่อได้อย่างอิสระ (อ้างอิงแหล่งที่มาด้วยจะขอบคุณมากครับ 🙏)
+นำไปใช้ ศึกษา แชร์ต่อได้อย่างอิสระ (อ้างอิงแหล่งที่มาด้วยจะขอบคุณมากครับ 🙏)
