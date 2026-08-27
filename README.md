@@ -5,7 +5,7 @@
 
 [![Tableau MCP](https://img.shields.io/badge/Tableau-MCP-blue)](https://github.com/tableau/tableau-mcp)
 [![Language: Thai](https://img.shields.io/badge/Language-ไทย-red)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)]()
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/deed.th)
 
 ---
 
@@ -110,6 +110,16 @@
 - 🌐 Facebook Page: อะไรก็ AI
 - 📺 YouTube: Tableau MCP Academy
 
-## 📄 License
+## 📄 License & Copyright
 
-MIT License — นำไปใช้ ศึกษา แชร์ต่อได้อย่างอิสระ (อ้างอิงแหล่งที่มาด้วยจะขอบคุณมากครับ 🙏)
+© 2026 Narit Apisamachan (The Narit Lab) — สงวนลิขสิทธิ์
+
+เนื้อหาในคู่มือนี้เผยแพร่ภายใต้สัญญาอนุญาต [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.th)
+
+**คุณสามารถ:** นำไปใช้ แชร์ ดัดแปลง แปล หรืออ้างอิงในงานของคุณได้อย่างอิสระ
+
+**เงื่อนไขเดียว:** ต้องให้เครดิตแหล่งที่มา โดยระบุ **"The Narit Lab"** พร้อมลิงก์กลับมาที่ repo นี้ และระบุด้วยหากมีการดัดแปลงเนื้อหา
+
+ตัวอย่างการให้เครดิต:
+
+> เนื้อหาอ้างอิงจาก [Tableau MCP Guide by The Narit Lab](https://github.com/thenaritlab/tableau-mcp-guide)
