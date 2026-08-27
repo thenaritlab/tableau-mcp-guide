@@ -39,39 +39,47 @@
 ### Part 3 — Basic Usage (การใช้งานพื้นฐาน)
 | บท | หัวข้อ | ระดับ |
 |---|---|---|
-| 3.1 | บทสนทนาแรกกับข้อมูลของคุณ | 🟢 Basic |
-| 3.2 | Tools ทั้งหมดของ Tableau MCP | 🟢 Basic |
-| 3.3 | Query Data Source ด้วยภาษาธรรมชาติ | 🟢 Basic |
-| 3.4 | ค้นหาและสำรวจ Workbook / View | 🟢 Basic |
-| 3.5 | อ่าน Pulse Metrics ผ่าน Claude | 🟢 Basic |
+| 3.1 | [บทสนทนาแรกกับข้อมูลของคุณ](03-basic-usage/01-first-conversation.md) | 🟢 Basic |
+| 3.2 | [Tools ทั้งหมดของ Tableau MCP](03-basic-usage/02-available-tools.md) | 🟢 Basic |
+| 3.3 | [Query Data Source ด้วยภาษาธรรมชาติ](03-basic-usage/03-query-datasource.md) | 🟢 Basic |
+| 3.4 | [ค้นหาและสำรวจ Workbook / View](03-basic-usage/04-explore-workbooks.md) | 🟢 Basic |
+| 3.5 | [อ่าน Pulse Metrics ผ่าน Claude](03-basic-usage/05-pulse-metrics.md) | 🟢 Basic |
 
 ### Part 4 — Intermediate (ระดับกลาง)
 | บท | หัวข้อ | ระดับ |
 |---|---|---|
-| 4.1 | Prompt Patterns: เขียน prompt ให้ query แม่นยำ | 🟡 Intermediate |
-| 4.2 | Row Level Security (RLS) กับ MCP | 🟡 Intermediate |
-| 4.3 | วิเคราะห์ข้ามหลาย Data Source | 🟡 Intermediate |
-| 4.4 | สร้าง Documentation ของ Workbook อัตโนมัติ | 🟡 Intermediate |
-| 4.5 | Workflow กับ Claude Projects | 🟡 Intermediate |
+| 4.1 | [Prompt Patterns: เขียน prompt ให้ query แม่นยำ](04-intermediate/01-prompt-patterns.md) | 🟡 Intermediate |
+| 4.2 | [Row Level Security (RLS) กับ MCP](04-intermediate/02-rls-and-permissions.md) | 🟡 Intermediate |
+| 4.3 | [วิเคราะห์ข้ามหลาย Data Source](04-intermediate/03-multi-datasource.md) | 🟡 Intermediate |
+| 4.4 | [สร้าง Documentation ของ Workbook อัตโนมัติ](04-intermediate/04-dashboard-documentation.md) | 🟡 Intermediate |
+| 4.5 | [Workflow กับ Claude Projects](04-intermediate/05-claude-projects-workflow.md) | 🟡 Intermediate |
 
 ### Part 5 — Advanced Programming (ระดับสูง)
 | บท | หัวข้อ | ระดับ |
 |---|---|---|
-| 5.1 | MCP Protocol: JSON-RPC, stdio vs streamable-http | 🔴 Advanced |
-| 5.2 | เรียก Tableau MCP ผ่าน Anthropic API | 🔴 Advanced |
-| 5.3 | สร้าง Web App Chat กับ Tableau | 🔴 Advanced |
-| 5.4 | Fork และเขียน Custom Tool เพิ่มเอง | 🔴 Advanced |
-| 5.5 | REST API vs MCP: เลือกใช้เมื่อไหร่ | 🔴 Advanced |
-| 5.6 | VizQL Data Service (VDS) Deep Dive | 🔴 Advanced |
-| 5.7 | Agentic Workflows กับ Claude Code | 🔴 Advanced |
+| 5.1 | [MCP Protocol: JSON-RPC, stdio vs streamable-http](05-advanced-programming/01-mcp-protocol-basics.md) | 🔴 Advanced |
+| 5.2 | [เรียก Tableau MCP ผ่าน Anthropic API](05-advanced-programming/02-anthropic-api-mcp.md) | 🔴 Advanced |
+| 5.3 | [สร้าง Web App Chat กับ Tableau](05-advanced-programming/03-build-chat-webapp.md) | 🔴 Advanced |
+| 5.4 | [Fork และเขียน Custom Tool เพิ่มเอง](05-advanced-programming/04-custom-mcp-tools.md) | 🔴 Advanced |
+| 5.5 | [REST API vs MCP: เลือกใช้เมื่อไหร่](05-advanced-programming/05-rest-api-vs-mcp.md) | 🔴 Advanced |
+| 5.6 | [VizQL Data Service (VDS) Deep Dive](05-advanced-programming/06-vds-deep-dive.md) | 🔴 Advanced |
+| 5.7 | [Agentic Workflows กับ Claude Code](05-advanced-programming/07-agentic-workflows.md) | 🔴 Advanced |
 
 ### Part 6 — Enterprise (ระดับองค์กร)
 | บท | หัวข้อ | ระดับ |
 |---|---|---|
-| 6.1 | Security Hardening สำหรับ Production | 🔴 Advanced |
-| 6.2 | Self-Hosted Deployment สำหรับ Tableau Server | 🔴 Advanced |
-| 6.3 | Governance และการควบคุมสิทธิ์ | 🔴 Advanced |
-| 6.4 | POC Checklist สำหรับองค์กร | 🔴 Advanced |
+| 6.1 | [Security Hardening สำหรับ Production](06-enterprise/01-security-hardening.md) | 🔴 Advanced |
+| 6.2 | [Self-Hosted Deployment สำหรับ Tableau Server](06-enterprise/02-self-hosted-deployment.md) | 🔴 Advanced |
+| 6.3 | [Governance และการควบคุมสิทธิ์](06-enterprise/03-governance.md) | 🔴 Advanced |
+| 6.4 | [POC Checklist สำหรับองค์กร](06-enterprise/04-poc-checklist.md) | 🔴 Advanced |
+
+### 📦 Examples (ของพร้อมใช้)
+| รายการ | คืออะไร |
+|---|---|
+| [Sample Prompts](examples/sample-prompts.md) | Prompt สำเร็จรูป copy ไปใช้ได้เลย |
+| [Config ตัวอย่าง 6 แบบ](examples/claude_desktop_config/) | claude_desktop_config.json ทุกสถานการณ์ |
+| [API Scripts](examples/api-scripts/) | Node (Claude API + MCP) และ Python (VDS ตรง) |
+| [Webapp Demo](examples/webapp-demo/) | Chat web app รันได้จริง |
 
 ## ⚡ Quick Start (5 นาที)
 
