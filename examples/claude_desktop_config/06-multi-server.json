@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "tableau-cloud": {
+      "command": "npx",
+      "args": ["-y", "@tableau/mcp-server@latest"],
+      "env": {
+        "SERVER": "https://YOUR-POD.online.tableau.com",
+        "SITE_NAME": "YOUR_CLOUD_SITE",
+        "PAT_NAME": "YOUR_CLOUD_PAT_NAME",
+        "PAT_VALUE": "YOUR_CLOUD_PAT_SECRET"
+      }
+    },
+    "tableau-server": {
+      "command": "npx",
+      "args": ["-y", "@tableau/mcp-server@latest"],
+      "env": {
+        "SERVER": "https://tableau.company.co.th",
+        "SITE_NAME": "",
+        "PAT_NAME": "YOUR_SERVER_PAT_NAME",
+        "PAT_VALUE": "YOUR_SERVER_PAT_SECRET"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "tableau": {
+      "command": "node",
+      "args": ["C:\\dev\\tableau-mcp\\build\\index.js"],
+      "env": {
+        "TRANSPORT": "stdio",
+        "SERVER": "https://YOUR-TABLEAU-SERVER.company.co.th",
+        "SITE_NAME": "",
+        "PAT_NAME": "YOUR_PAT_NAME",
+        "PAT_VALUE": "YOUR_PAT_SECRET",
+        "DEFAULT_LOG_LEVEL": "debug"
+      }
+    }
+  }
+}

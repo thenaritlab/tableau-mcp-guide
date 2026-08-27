@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tableau": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.internal.company.co.th/mcp"]
+    }
+  }
+}

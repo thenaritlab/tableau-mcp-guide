@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tableau": {
+      "command": "npx",
+      "args": ["-y", "@tableau/mcp-server@2.21.1"],
+      "env": {
+        "SERVER": "https://YOUR-POD.online.tableau.com",
+        "SITE_NAME": "YOUR_SITE_NAME",
+        "PAT_NAME": "YOUR_PAT_NAME",
+        "PAT_VALUE": "YOUR_PAT_SECRET"
+      }
+    }
+  }
+}
